@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "AddTable",
+    "RelativePath": "api/User/addTable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "restrauntBooking.TableRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "GetAllBookings",
+    "RelativePath": "api/User/allBookings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "GetAllTables",
+    "RelativePath": "api/User/alltables",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "CreateBooking",
+    "RelativePath": "api/User/bookTable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tbl",
+        "Type": "restrauntBooking.TableBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "restrauntBooking.RestaurantUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "restrauntBooking.RestaurantUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "ResetBookStatus",
+    "RelativePath": "api/User/resetBookStatus/{tableid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tableid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "restrauntBooking.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

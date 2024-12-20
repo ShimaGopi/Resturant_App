@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100878\\Desktop\\restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E06430-38B2-4ED2-B752-CB2BC10FC95B}|restaurant\\restaurant.csproj|c:\\users\\100878\\desktop\\restaurant\\restaurant\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E06430-38B2-4ED2-B752-CB2BC10FC95B}|restaurant\\restaurant.csproj|solutionrelative:restaurant\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E06430-38B2-4ED2-B752-CB2BC10FC95B}|restaurant\\restaurant.csproj|c:\\users\\100878\\desktop\\restaurant\\restaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66E06430-38B2-4ED2-B752-CB2BC10FC95B}|restaurant\\restaurant.csproj|solutionrelative:restaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.RestaurantUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.RestaurantUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.RestaurantUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.RestaurantUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-20T04:28:56.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\100878\\Desktop\\restaurant\\restaurant\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "restaurant\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\100878\\Desktop\\restaurant\\restaurant\\Controllers\\UserController.cs",
+              "RelativeToolTip": "restaurant\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwI0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:25:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\100878\\Desktop\\restaurant\\restaurant\\appsettings.json",
+              "RelativeDocumentMoniker": "restaurant\\appsettings.json",
+              "ToolTip": "C:\\Users\\100878\\Desktop\\restaurant\\restaurant\\appsettings.json",
+              "RelativeToolTip": "restaurant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T03:25:14.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
